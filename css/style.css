@@ -77,7 +77,7 @@ a:hover {
 }
 
 .bg-image {
-  background-image: url("..img/bg\ .jpg");
+  background-image: url("https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/bg%20.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
