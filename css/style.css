@@ -868,6 +868,11 @@ footer .credits a {
   .counter-box {
     margin-bottom: 1.8rem;
   }
+  .imgs{
+    margin-left:10%; 
+    height: 40px;
+    width: 40px;
+  }
 }
 
 @media (min-width: 767px) {
