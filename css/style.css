@@ -324,8 +324,8 @@ a:hover {
 }
 
 .imgs{
-  height: 100px;
-  width: 120px;
+  height: 120px;
+  width: 160px;
 }
 
 /* Back to top button */
@@ -867,11 +867,6 @@ footer .credits a {
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
-  }
-  .imgs{
-    margin-left:10%; 
-    height: 40px;
-    width: 40px;
   }
 }
 
